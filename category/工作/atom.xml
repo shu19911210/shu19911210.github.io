@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.startanew.cn</id>
+    <id>http://www.paopaoni.cn</id>
     <title>JAVA • Posts by &#34;工作&#34; category</title>
-    <link href="http://www.startanew.cn" />
+    <link href="http://www.paopaoni.cn" />
     <updated>2020-10-18T10:53:46.000Z</updated>
     <category term="java" />
     <category term="springboot" />
@@ -24,9 +24,9 @@
     <category term="工作分析" />
     <category term="树莓派" />
     <entry>
-        <id>http://www.startanew.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</id>
+        <id>http://www.paopaoni.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</id>
         <title>git 拉取远程仓库全部分支</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/"/>
         <content type="html">&lt;h3 id=&#34;拉取远程仓库全部分支&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#拉取远程仓库全部分支&#34;&gt;#&lt;/a&gt; 拉取远程仓库全部分支&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;code&gt;git clone   // 拉取仓库&lt;/code&gt;&lt;/li&gt;
@@ -38,9 +38,9 @@
         <updated>2020-10-18T10:53:46.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</id>
+        <id>http://www.paopaoni.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</id>
         <title>git补充</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/14/git%E8%A1%A5%E5%85%85/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/14/git%E8%A1%A5%E5%85%85/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;撤销 add&lt;/li&gt;
 &lt;/ul&gt;
@@ -55,9 +55,9 @@
         <updated>2020-07-14T01:03:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/13/swagger%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3/</id>
+        <id>http://www.paopaoni.cn/2020/07/13/swagger%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3/</id>
         <title>swagger自动生成api文档</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/13/swagger%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/13/swagger%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3/"/>
         <content type="html">&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTM5ODU2NjQvYXJ0aWNsZS9kZXRhaWxzLzgwMDA5Mjc0&#34;&gt;https://blog.csdn.net/u013985664/article/details/80009274&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2OTExMTQ1L2FydGljbGUvZGV0YWlscy84Mjg1NDQxNw==&#34;&gt;https://blog.csdn.net/qq_36911145/article/details/82854417&lt;/span&gt;&lt;/p&gt;
 </content>
@@ -65,9 +65,9 @@
         <updated>2020-07-13T06:37:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/</id>
         <title>redis安装</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/"/>
         <content type="html">&lt;h6 id=&#34;一安装环境&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一安装环境&#34;&gt;#&lt;/a&gt; 一。安装环境&lt;/h6&gt;
 &lt;ul&gt;
 &lt;li&gt;系统： ubuntu 18.04&lt;/li&gt;
@@ -121,9 +121,9 @@
         <updated>2020-07-12T14:24:45.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</id>
         <title>git 命令三（.gitignore篇）</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/"/>
         <content type="html">&lt;h5 id=&#34;一-新建gitignore文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-新建gitignore文件&#34;&gt;#&lt;/a&gt; 一。新建.gitignore 文件&lt;/h5&gt;
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;touch .gitignore&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;  
@@ -139,9 +139,9 @@
         <updated>2020-07-12T14:18:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</id>
         <title>git 命令二 (分支篇)</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/"/>
         <content type="html">&lt;h2 id=&#34;分支管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#分支管理&#34;&gt;#&lt;/a&gt; 分支管理&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;1.git branch 列出分支&lt;/p&gt;
@@ -162,9 +162,9 @@
         <updated>2020-07-12T13:48:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</id>
         <title>git 命令一 (基础篇)</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
         <content type="html">&lt;h2 id=&#34;git基础用法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#git基础用法&#34;&gt;#&lt;/a&gt; git 基础用法&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;1.git init  初始化一个 Git 仓库，执行完后会在当前目录生成一个 .git 目录 。&lt;br&gt;

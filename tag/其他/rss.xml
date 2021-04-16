@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>JAVA • Posts by &#34;其他&#34; tag</title>
-        <link>http://www.startanew.cn</link>
+        <link>http://www.paopaoni.cn</link>
         <description>爱编程，爱生活</description>
         <language>zh-CN</language>
         <pubDate>Sun, 12 Jul 2020 21:03:00 +0800</pubDate>
@@ -27,9 +27,9 @@
         <category>工作分析</category>
         <category>树莓派</category>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</guid>
             <title>WordPress搭建</title>
-            <link>http://www.startanew.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</link>
+            <link>http://www.paopaoni.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</link>
             <category>其他</category>
             <pubDate>Sun, 12 Jul 2020 21:03:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;基本环境搭建&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本环境搭建&#34;&gt;#&lt;/a&gt; 基本环境搭建&lt;/h1&gt;

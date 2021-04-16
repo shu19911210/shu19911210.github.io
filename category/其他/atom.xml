@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.startanew.cn</id>
+    <id>http://www.paopaoni.cn</id>
     <title>JAVA • Posts by &#34;其他&#34; category</title>
-    <link href="http://www.startanew.cn" />
+    <link href="http://www.paopaoni.cn" />
     <updated>2020-07-12T13:03:00.000Z</updated>
     <category term="java" />
     <category term="springboot" />
@@ -24,9 +24,9 @@
     <category term="工作分析" />
     <category term="树莓派" />
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/</id>
         <title>WordPress搭建</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/WordPress%E6%90%AD%E5%BB%BA/"/>
         <content type="html">&lt;h1 id=&#34;基本环境搭建&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本环境搭建&#34;&gt;#&lt;/a&gt; 基本环境搭建&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;1. 在宝塔面板上安装 Apache ，mysql , php&lt;br&gt;

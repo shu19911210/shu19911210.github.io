@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.startanew.cn</id>
+    <id>http://www.paopaoni.cn</id>
     <title>JAVA • Posts by &#34;dos命令&#34; tag</title>
-    <link href="http://www.startanew.cn" />
+    <link href="http://www.paopaoni.cn" />
     <updated>2020-07-14T00:52:04.000Z</updated>
     <category term="java" />
     <category term="springboot" />
@@ -24,9 +24,9 @@
     <category term="工作分析" />
     <category term="树莓派" />
     <entry>
-        <id>http://www.startanew.cn/2020/07/14/windows-%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+        <id>http://www.paopaoni.cn/2020/07/14/windows-%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
         <title>windows 快捷键</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/14/windows-%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/14/windows-%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
         <content type="html">&lt;ol&gt;
 &lt;li&gt;F2   重命名&lt;/li&gt;
 &lt;li&gt;shift+delete   永久删除文件&lt;/li&gt;
@@ -44,9 +44,9 @@
         <updated>2020-07-14T00:52:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/14/dos%E5%91%BD%E4%BB%A4/</id>
+        <id>http://www.paopaoni.cn/2020/07/14/dos%E5%91%BD%E4%BB%A4/</id>
         <title>dos命令</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/14/dos%E5%91%BD%E4%BB%A4/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/14/dos%E5%91%BD%E4%BB%A4/"/>
         <content type="html">&lt;ol&gt;
 &lt;li&gt;shutdown  -s  -t  180  -c ” 文本 “&lt;/li&gt;
 &lt;li&gt;dir   查看目录&lt;/li&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>JAVA • Posts by &#34;git&#34; tag</title>
-        <link>http://www.startanew.cn</link>
+        <link>http://www.paopaoni.cn</link>
         <description>爱编程，爱生活</description>
         <language>zh-CN</language>
         <pubDate>Sun, 18 Oct 2020 18:53:46 +0800</pubDate>
@@ -27,9 +27,9 @@
         <category>工作分析</category>
         <category>树莓派</category>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</guid>
             <title>git 拉取远程仓库全部分支</title>
-            <link>http://www.startanew.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</link>
+            <link>http://www.paopaoni.cn/2020/10/18/git-%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E5%85%A8%E9%83%A8%E5%88%86%E6%94%AF/</link>
             <category>git</category>
             <pubDate>Sun, 18 Oct 2020 18:53:46 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;拉取远程仓库全部分支&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#拉取远程仓库全部分支&#34;&gt;#&lt;/a&gt; 拉取远程仓库全部分支&lt;/h3&gt;
@@ -41,9 +41,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</guid>
             <title>git补充</title>
-            <link>http://www.startanew.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</link>
+            <link>http://www.paopaoni.cn/2020/07/14/git%E8%A1%A5%E5%85%85/</link>
             <category>git</category>
             <pubDate>Tue, 14 Jul 2020 09:03:04 +0800</pubDate>
             <description><![CDATA[ &lt;ul&gt;
@@ -58,9 +58,9 @@
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;PS：&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;HEAD^的意思是上一个版本，也可以写成HEAD~1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;如果你进行了两次commit，想都撤回，可以使用HEAD~2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</guid>
             <title>git 命令三（.gitignore篇）</title>
-            <link>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</link>
+            <link>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%89%EF%BC%88-gitignore%E7%AF%87%EF%BC%89/</link>
             <category>git</category>
             <pubDate>Sun, 12 Jul 2020 22:18:00 +0800</pubDate>
             <description><![CDATA[ &lt;h5 id=&#34;一-新建gitignore文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-新建gitignore文件&#34;&gt;#&lt;/a&gt; 一。新建.gitignore 文件&lt;/h5&gt;
@@ -76,9 +76,9 @@
 &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;git pull --rebase origin master     本地生成远程仓库文件&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;git push origin master&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</guid>
             <title>git 命令二 (分支篇)</title>
-            <link>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</link>
+            <link>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%BA%8C-%E5%88%86%E6%94%AF%E7%AF%87/</link>
             <category>git</category>
             <pubDate>Sun, 12 Jul 2020 21:48:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;分支管理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#分支管理&#34;&gt;#&lt;/a&gt; 分支管理&lt;/h2&gt;
@@ -99,9 +99,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
+            <guid isPermalink="true">http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</guid>
             <title>git 命令一 (基础篇)</title>
-            <link>http://www.startanew.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
+            <link>http://www.paopaoni.cn/2020/07/12/git-%E5%91%BD%E4%BB%A4%E4%B8%80-%E5%9F%BA%E7%A1%80%E7%AF%87/</link>
             <category>git</category>
             <pubDate>Sun, 12 Jul 2020 21:26:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;git基础用法&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#git基础用法&#34;&gt;#&lt;/a&gt; git 基础用法&lt;/h2&gt;

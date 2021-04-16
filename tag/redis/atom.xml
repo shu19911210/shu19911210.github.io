@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.startanew.cn</id>
+    <id>http://www.paopaoni.cn</id>
     <title>JAVA • Posts by &#34;redis&#34; tag</title>
-    <link href="http://www.startanew.cn" />
+    <link href="http://www.paopaoni.cn" />
     <updated>2020-07-14T00:34:50.000Z</updated>
     <category term="java" />
     <category term="springboot" />
@@ -24,9 +24,9 @@
     <category term="工作分析" />
     <category term="树莓派" />
     <entry>
-        <id>http://www.startanew.cn/2020/07/14/redis5-0-5%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</id>
+        <id>http://www.paopaoni.cn/2020/07/14/redis5-0-5%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</id>
         <title>redis5.0.5集群搭建</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/14/redis5-0-5%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/14/redis5-0-5%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/"/>
         <content type="html">&lt;h4 id=&#34;配置文件详解配置文件见文章后面&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#配置文件详解配置文件见文章后面&#34;&gt;#&lt;/a&gt; 配置文件详解（配置文件见文章后面）&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;修改如下内容&lt;/li&gt;
@@ -78,9 +78,9 @@ cluster nodes 节点扩容：&lt;/li&gt;
         <updated>2020-07-14T00:34:50.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/14/redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/</id>
+        <id>http://www.paopaoni.cn/2020/07/14/redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/</id>
         <title>redis主从复制</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/14/redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/14/redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/"/>
         <content type="html">&lt;h4 id=&#34;基本环境&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#基本环境&#34;&gt;#&lt;/a&gt; 基本环境&lt;/h4&gt;
 &lt;h6 id=&#34;启动3台redis&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#启动3台redis&#34;&gt;#&lt;/a&gt; 启动 3 台 redis&lt;/h6&gt;
 &lt;ul&gt;
@@ -125,9 +125,9 @@ cluster nodes 节点扩容：&lt;/li&gt;
         <updated>2020-07-14T00:29:37.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/Redis-jedis/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/Redis-jedis/</id>
         <title>Redis jedis</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/Redis-jedis/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/Redis-jedis/"/>
         <content type="html">&lt;h4 id=&#34;一-引入maven依赖&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-引入maven依赖&#34;&gt;#&lt;/a&gt; 一。引入 Maven 依赖&lt;/h4&gt;
  &lt;figure class=&#34;highlight plain&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;dependency&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;lt;groupId&amp;gt;redis.clients&amp;lt;&amp;#x2F;groupId&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;lt;artifactId&amp;gt;jedis&amp;lt;&amp;#x2F;artifactId&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;lt;version&amp;gt;2.9.0&amp;lt;&amp;#x2F;version&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;lt;&amp;#x2F;dependency&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;  
@@ -137,9 +137,9 @@ cluster nodes 节点扩容：&lt;/li&gt;
         <updated>2020-07-12T15:22:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/redis%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/redis%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</id>
         <title>redis基本用法</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/redis%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/redis%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/"/>
         <content type="html">&lt;h3 id=&#34;一-redis-命令&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-redis-命令&#34;&gt;#&lt;/a&gt; 一  . redis  命令&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;开启命令  ./redis-server  或  ./redis-server     路径 /redis.conf（指定配置文件）&lt;br&gt;
@@ -663,9 +663,9 @@ ps aux | grep ‘6379’  — 查询端口&lt;br&gt;
         <updated>2020-07-12T14:50:49.000Z</updated>
     </entry>
     <entry>
-        <id>http://www.startanew.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/</id>
+        <id>http://www.paopaoni.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/</id>
         <title>redis安装</title>
-        <link rel="alternate" href="http://www.startanew.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/"/>
+        <link rel="alternate" href="http://www.paopaoni.cn/2020/07/12/redis%E5%AE%89%E8%A3%85/"/>
         <content type="html">&lt;h6 id=&#34;一安装环境&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一安装环境&#34;&gt;#&lt;/a&gt; 一。安装环境&lt;/h6&gt;
 &lt;ul&gt;
 &lt;li&gt;系统： ubuntu 18.04&lt;/li&gt;
